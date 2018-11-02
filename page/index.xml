@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Mizune&#39;s habitat</title>
+    <link>https://mizune.ms/page/</link>
+    <description>Recent content in Pages on Mizune&#39;s habitat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    
+	<atom:link href="https://mizune.ms/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://mizune.ms/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mizune.ms/page/about/</guid>
+      <description> Mizune - Interests - Mobile  Android iOS cross platform  Web  Server Backend Frontend  Game  Unity  - Languages -  Kotlin Java C# Swift Python HTML/JS Ruby  - Works &amp;amp; Activities -  Microsoft Student Partners : Technical Evangelist, Web, IoT, Xamarin (2014&amp;frasl;09 ~) Microsoft : Internship, support on evangelist (2015&amp;frasl;01 ~ 2016&amp;frasl;01) Ezmom : Short-term contract, construct infrastructure (2015&amp;frasl;02 ~ 2015&amp;frasl;03) Cookpad : Part-time Engineer, develop android and rails apps (2017&amp;frasl;06 ~ 2018&amp;frasl;10) Diverse : Internship, develop android app (2017&amp;frasl;08) Mercari : Internship, develop android app (2018&amp;frasl;08) Dwango : Internship, develop iOS app (2018&amp;frasl;09)  - Awards -  2018&amp;frasl;06 SPAJAM 2018 Tokyo A Qualifying Best Award 2018&amp;frasl;07 SPAJAM 2018 Final Best Award  </description>
+    </item>
+    
+  </channel>
+</rss>
