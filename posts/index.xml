@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mizune&#39;s habitat</title>
+    <link>https://mizune.ms/posts/</link>
+    <description>Recent content in Posts on Mizune&#39;s habitat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 07 Nov 2018 17:24:57 +0900</lastBuildDate>
+    
+	<atom:link href="https://mizune.ms/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>サイト更新しました</title>
+      <link>https://mizune.ms/posts/update-site/</link>
+      <pubDate>Wed, 07 Nov 2018 17:24:57 +0900</pubDate>
+      
+      <guid>https://mizune.ms/posts/update-site/</guid>
+      <description>お久しぶりです.みずねです.
+何となくブログ含めてサイトを更新しました. きっとそのうち過去のコンテンツもこちらに移管します.
+改めましてよろしくお願いします!</description>
+    </item>
+    
+  </channel>
+</rss>
